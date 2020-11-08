@@ -1,16 +1,21 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=saspect-io&show_icons=true&theme=dracula">
 
-<!--
-**Saspect-IO/Saspect-IO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hellow World 👋 I am Sheldon Small 🤔 - @Saspect-IO
 
-Here are some ideas to get you started:
+Software Developer specialized in Spatial Data Analysis and Geomatics. Contributor and maintainer of rdvue cli automation tool for vue project scaffolding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Which tools do I use?
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saspect-io&layout=compact)
+
+## 🚀 Some of my projects
+
+- [The rdvue Command Line Interface (CLI)](https://github.com/realdecoy/rdvuet)
+- [Map Fish Print Module](https://github.com/Saspect-IO/SimcoeCountyWebViewer)
+- [News API Extension with node, mongodb and cheerio](https://github.com/Saspect-IO/Node-Express-Cheerio-Mongodb-REST-API)
+
+
+
+## 📫 Get in touch
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheldon-small-13672160/)
