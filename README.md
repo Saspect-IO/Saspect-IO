@@ -4,15 +4,18 @@
 
 Software Developer specialized in Spatial Data Analysis and Geomatics. Contributor and maintainer of rdvue cli automation tool for vue project scaffolding.
 
+
 ## 🛠️ Which tools do I use?
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saspect-io&layout=compact)
+
 
 ## 🚀 Some of my projects
 
 - [The rdvue Command Line Interface (CLI)](https://github.com/realdecoy/rdvuet)
 - [Map Fish Print Module](https://github.com/Saspect-IO/SimcoeCountyWebViewer)
 - [News API Extension with node, mongodb and cheerio](https://github.com/Saspect-IO/Node-Express-Cheerio-Mongodb-REST-API)
+
 
 ## :octocat: Contributions:
 
