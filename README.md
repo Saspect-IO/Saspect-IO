@@ -14,7 +14,7 @@ Software Developer specialized in Spatial Data Analysis and Geomatics. Contribut
 - [Map Fish Print Module](https://github.com/Saspect-IO/SimcoeCountyWebViewer)
 - [News API Extension with node, mongodb and cheerio](https://github.com/Saspect-IO/Node-Express-Cheerio-Mongodb-REST-API)
 
-## :octocat Contributions:
+## :octocat: Contributions:
 
 - [javascript-color-gradient](https://github.com/Adrinlol/javascript-color-gradient)
 
