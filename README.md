@@ -13,13 +13,14 @@ Software Developer specialized in Spatial Data Analysis and Geomatics. Contribut
 ## 🚀 Some of my projects
 
 - [The rdvue Command Line Interface (CLI)](https://github.com/realdecoy/rdvuet)
-- [Map Fish Print Module](https://github.com/Saspect-IO/SimcoeCountyWebViewer)
 - [News API Extension with node, mongodb and cheerio](https://github.com/Saspect-IO/Node-Express-Cheerio-Mongodb-REST-API)
+- [Notivize: android mobile app for news api extension visualisation](https://github.com/Saspect-IO/NotiVize)
 
 
 ## :octocat: Contributions:
 
 - [javascript-color-gradient](https://github.com/Adrinlol/javascript-color-gradient)
+- [Map Fish Print Module](https://github.com/Saspect-IO/SimcoeCountyWebViewer)
 
 
 ## 📫 Get in touch
