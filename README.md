@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=saspect-io&show_icons=true&theme=dracula">
 
-## Hellow World 👋 I am Sheldon Small 🤔 - @Saspect-IO
+## Hello World 👋 I am Sheldon Small 🤔 - @Saspect-IO
 
 Software Developer specialized in Spatial Data Analysis and Geomatics. Contributor and maintainer of rdvue cli automation tool for vue project scaffolding.
 
@@ -14,6 +14,9 @@ Software Developer specialized in Spatial Data Analysis and Geomatics. Contribut
 - [Map Fish Print Module](https://github.com/Saspect-IO/SimcoeCountyWebViewer)
 - [News API Extension with node, mongodb and cheerio](https://github.com/Saspect-IO/Node-Express-Cheerio-Mongodb-REST-API)
 
+## :octocat Contributions:
+
+- [javascript-color-gradient](https://github.com/Adrinlol/javascript-color-gradient)
 
 
 ## 📫 Get in touch
