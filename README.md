@@ -19,7 +19,7 @@ Software Developer specialized in Spatial Data Analysis and Geomatics. A Contrib
 
 ## :octocat: Contributions:
 
-- [The rdvue Command Line Interface (CLI)](https://github.com/realdecoy/rdvuet)
+- [The rdvue Command Line Interface (CLI)](https://github.com/realdecoy/rdvue)
 - [javascript-color-gradient](https://github.com/Adrinlol/javascript-color-gradient)
 - [Map Fish Print Module](https://github.com/Saspect-IO/SimcoeCountyWebViewer)
 
