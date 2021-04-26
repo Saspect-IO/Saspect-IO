@@ -14,7 +14,6 @@ Software Developer specialized in Spatial Data Analysis and Geomatics. A Contrib
 
 - [WebGL 3D Renderer](https://github.com/Saspect-IO/webgl-3d-renderer)
 - [News API Extension with node, mongodb and cheerio](https://github.com/Saspect-IO/Node-Express-Cheerio-Mongodb-REST-API)
-- [Notivize: android mobile app for news api extension visualisation](https://github.com/Saspect-IO/NotiVize)
 
 
 ## :octocat: Contributions:
