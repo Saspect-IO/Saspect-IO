@@ -2,7 +2,7 @@
 
 ## Hello World 👋 I am Sheldon Small 🤔 - @Saspect-IO
 
-Software Developer specialized in Spatial Data Analysis and Geomatics. A Contributor and maintainer of the rdvue cli automation tool for vue project scaffolding.
+Software Engineer specialized in Spatial Data Analysis and Geomatics.
 
 &nbsp;
 &nbsp;
@@ -24,7 +24,6 @@ Software Developer specialized in Spatial Data Analysis and Geomatics. A Contrib
 
 ## :octocat: Contributions:
 
-- [The rdvue Command Line Interface (CLI)](https://github.com/realdecoy/rdvue)
 - [javascript-color-gradient](https://github.com/Adrinlol/javascript-color-gradient)
 - [Map Fish Print Module](https://github.com/Saspect-IO/SimcoeCountyWebViewer)
 
