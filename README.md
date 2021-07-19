@@ -14,10 +14,9 @@ Software Engineer specialized in Spatial Data Analysis and Geomatics.
 &nbsp;
 &nbsp;
 
-## 🚀 Some of my projects
+## 🚀 Projects
 
 - [WebGL 3D Renderer](https://github.com/Saspect-IO/webgl-3d-renderer), Demo [here](https://saspect-io.github.io/webgl-3d-renderer/)
-- [News API Extension with node, mongodb and cheerio](https://github.com/Saspect-IO/Node-Express-Cheerio-Mongodb-REST-API)
 
 &nbsp;
 &nbsp;
