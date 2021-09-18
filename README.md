@@ -17,6 +17,8 @@ Software Engineer specialized in Spatial Data Analysis and Geomatics.
 ## 🚀 Projects
 
 - [WebGL 3D Renderer](https://github.com/Saspect-IO/webgl-3d-renderer), Demo [here](https://saspect-io.github.io/webgl-3d-renderer/)
+- ![image](https://user-images.githubusercontent.com/29488727/133910816-790ec9b7-88b8-4578-909c-d681d6bdf076.png)
+
 
 &nbsp;
 &nbsp;
