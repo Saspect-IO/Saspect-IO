@@ -27,6 +27,7 @@ Software Engineer specialized in Spatial Data Analysis and Geomatics.
 
 - [javascript-color-gradient](https://github.com/Adrinlol/javascript-color-gradient)
 - [Map Fish Print Module](https://github.com/Saspect-IO/SimcoeCountyWebViewer)
+- [IBM Call-for-Code Liquid-Prep Documentation](https://github.com/Call-for-Code/Liquid-Prep)
 
 &nbsp;
 &nbsp; 
