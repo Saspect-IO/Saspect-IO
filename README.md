@@ -23,7 +23,7 @@ Software Engineer specialized in Spatial Data Analysis and Geomatics.
 &nbsp;
 &nbsp;
 
-## :octocat: Contributions:
+## 🪁 Contributions:
 
 - [javascript-color-gradient](https://github.com/Adrinlol/javascript-color-gradient)
 - [Map Fish Print Module](https://github.com/Saspect-IO/SimcoeCountyWebViewer)
